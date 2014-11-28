@@ -25,7 +25,7 @@ Pessoalmente achei mais simples fazer animações em flash, por utilizar menos c
 
 
 
-Reflexão elaborada por Luís Alexandre Bento Costa, do curso Técnico de Multimédia, para a UFCD3 – 0134: Algoritmia.
+Reflexão elaborada por Luís Alexandre Bento Costa, do curso Técnico de Multimédia.
 
 
 ##Conteudos abordados
